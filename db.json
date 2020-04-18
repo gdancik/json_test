@@ -10,6 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+
+  "query": {
+      "value": "hello"
   }
+  
+
 }
 
